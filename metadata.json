@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS CRM",
+  "description": "Sistema de CRM para gerenciamento de clientes, pedidos e histórico de atendimentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
